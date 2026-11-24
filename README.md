@@ -124,7 +124,5 @@ java Main
 
 \- Java Documentation: https://docs.oracle.com/en/java/
 
-\- ChatGPT assistance with code examples and explanations
-
 
 
